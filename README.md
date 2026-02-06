@@ -1,4 +1,4 @@
-# 🎨 artportfolio2bom
+# 🎨 Portfólio Nº2
 
 **Portfólio de Arte — 2º Bimestre**
 Disciplina: *Arte e Processo de Criação*
