@@ -9,6 +9,11 @@ Ele exibe o conteúdo do portfólio diretamente no terminal usando saída de tex
 
 ---
 
+<img width="652" height="703" alt="coverr2" src="https://github.com/user-attachments/assets/07c2d6e2-5075-45ab-8412-1f2de5385549" />
+
+
+---
+
 <img width="647" height="513" alt="islandtonowhere" src="https://github.com/user-attachments/assets/8fc83dff-f795-4bb6-a0d9-846b8f714272" />
 
 ---
