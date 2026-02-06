@@ -4,7 +4,7 @@
 Disciplina: *Arte e Processo de Criação*
 Instituição: **IFG – Campus Valparaíso de Goiás**
 
-Este projeto é um **portfólio de arte em terminal**, desenvolvido em **C++**.
+Este projeto é um portfólio de arte em terminal, desenvolvido em C++.
 Ele exibe o conteúdo do portfólio diretamente no terminal usando saída de texto formatada, funcionando como uma representação digital das produções e atividades desenvolvidas durante o semestre.
 
 ---
@@ -15,14 +15,13 @@ Ele exibe o conteúdo do portfólio diretamente no terminal usando saída de tex
 * Saída: **Terminal (console)**
 * Finalidade: Portfólio acadêmico
 * Estrutura: Programa simples em `main.cpp` que imprime o conteúdo
-* Foco: Documentação e apresentação, não interface gráfica
 
 ---
 
 ## 🧱 Estrutura do Projeto (exemplo)
 
 ```
-artportfolio2bom/
+artportfolio2bim/
 │
 ├── main.cpp
 └── README.md
@@ -53,15 +52,6 @@ g++ main.cpp -o portfolio
 ```bash
 g++ main.cpp -o portfolio.exe
 portfolio.exe
-```
-
----
-
-### 🔹 Usando Clang (opcional)
-
-```bash
-clang++ main.cpp -o portfolio
-./portfolio
 ```
 
 ---
