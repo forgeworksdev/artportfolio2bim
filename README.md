@@ -1,2 +1,81 @@
-# artportfolio2bom
-My art portfolio for the second semester of Art and Creation Process at IFG campus Valparaíso de Goiás
+Aqui está a versão **em português (PT-BR)** do README:
+
+---
+
+# 🎨 artportfolio2bom
+
+**Portfólio de Arte — 2º Bimestre**
+Disciplina: *Arte e Processo de Criação*
+Instituição: **IFG – Campus Valparaíso de Goiás**
+
+Este projeto é um **portfólio de arte em terminal**, desenvolvido em **C++**.
+Ele exibe o conteúdo do portfólio diretamente no terminal usando saída de texto formatada, funcionando como uma representação digital das produções e atividades desenvolvidas durante o semestre.
+
+---
+
+## 📌 Sobre o Projeto
+
+* Linguagem: **C++**
+* Saída: **Terminal (console)**
+* Finalidade: Portfólio acadêmico
+* Estrutura: Programa simples em `main.cpp` que imprime o conteúdo
+* Foco: Documentação e apresentação, não interface gráfica
+
+---
+
+## 🧱 Estrutura do Projeto (exemplo)
+
+```
+artportfolio2bom/
+│
+├── main.cpp
+└── README.md
+```
+
+---
+
+## ▶️ Como Compilar e Executar
+
+### Requisitos
+
+* Compilador C++ (ex.: `g++`)
+* Terminal / Prompt de Comando
+
+---
+
+### 🔹 Linux / macOS
+
+```bash
+g++ main.cpp -o portfolio
+./portfolio
+```
+
+---
+
+### 🔹 Windows (MinGW / g++)
+
+```bash
+g++ main.cpp -o portfolio.exe
+portfolio.exe
+```
+
+---
+
+### 🔹 Usando Clang (opcional)
+
+```bash
+clang++ main.cpp -o portfolio
+./portfolio
+```
+
+---
+
+## 📄 O que o `main.cpp` faz
+
+* Usa `std::cout` para imprimir:
+
+  * Título do portfólio
+  * Conteúdo do semestre
+  * Linha do tempo / descrições
+* Funciona como um **portfólio digital em formato textual**
+
