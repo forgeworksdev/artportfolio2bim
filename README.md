@@ -1,8 +1,8 @@
 # 🎨 Portfólio Nº2
 
-**Portfólio de Arte — 2º Bimestre**
+**Portfólio de Arte 2º Bimestre**
 Disciplina: *Arte e Processo de Criação*
-Instituição: **IFG – Campus Valparaíso de Goiás**
+Instituição: **IFG campus Valparaíso de Goiás**
 
 Este projeto é um portfólio de arte em terminal, desenvolvido em C++.
 Ele exibe o conteúdo do portfólio diretamente no terminal usando saída de texto formatada, funcionando como uma representação digital das produções e atividades desenvolvidas durante o semestre.
