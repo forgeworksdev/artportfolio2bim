@@ -28,6 +28,8 @@ Ele exibe o conteúdo do portfólio diretamente no terminal usando saída de tex
 artportfolio2bim/
 │
 ├── main.cpp
+├── LICENSE
+├── main
 └── README.md
 ```
 
