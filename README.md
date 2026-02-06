@@ -1,7 +1,3 @@
-Aqui está a versão **em português (PT-BR)** do README:
-
----
-
 # 🎨 artportfolio2bom
 
 **Portfólio de Arte — 2º Bimestre**
