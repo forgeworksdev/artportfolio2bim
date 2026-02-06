@@ -22,19 +22,6 @@ Ele exibe o conteúdo do portfólio diretamente no terminal usando saída de tex
 
 ---
 
-## 🧱 Estrutura do Projeto (exemplo)
-
-```
-artportfolio2bim/
-│
-├── main.cpp
-├── LICENSE
-├── main
-└── README.md
-```
-
----
-
 ## ▶️ Como Compilar e Executar
 
 ### Requisitos
