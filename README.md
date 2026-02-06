@@ -8,7 +8,9 @@ Este projeto é um portfólio de arte em terminal, desenvolvido em C++.
 Ele exibe o conteúdo do portfólio diretamente no terminal usando saída de texto formatada, funcionando como uma representação digital das produções e atividades desenvolvidas durante o semestre.
 
 ---
+
 <img width="647" height="513" alt="islandtonowhere" src="https://github.com/user-attachments/assets/8fc83dff-f795-4bb6-a0d9-846b8f714272" />
+
 ---
 
 ## 📌 Sobre o Projeto
